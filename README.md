@@ -1,12 +1,12 @@
-# 🧪 Projeto QA — Tela de Login
+#  Projeto QA — Tela de Login
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 Projeto desenvolvido para praticar conceitos de Quality Assurance (QA) através de uma aplicação web simples de login.
 
 O projeto envolve desenvolvimento da interface, execução de testes funcionais, identificação de problemas e documentação dos resultados.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Praticar:
 
@@ -18,7 +18,7 @@ Praticar:
 - Análise de resultados
 - Documentação de testes
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5
 - CSS3
@@ -26,7 +26,7 @@ Praticar:
 - Git
 - GitHub
 
-## 🧪 Testes realizados
+##  Testes realizados
 
 Foram realizados testes envolvendo:
 
@@ -38,7 +38,7 @@ Foram realizados testes envolvendo:
 - Senha vazia
 - Validação dos campos
 
-## 🐞 Problemas identificados
+##  Problemas identificados
 
 Durante os testes foram identificadas situações em que as mensagens apresentadas pelo sistema poderiam ser mais específicas para orientar o usuário.
 
@@ -46,13 +46,13 @@ Os problemas foram registrados no arquivo:
 
 `relatorio-de-bugs.md`
 
-## 📋 Casos de teste
+##  Casos de teste
 
 Os casos de teste realizados estão documentados em:
 
 `casos-de-teste.md`
 
-## ▶️ Como executar
+##  Como executar
 
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` em um navegador.
@@ -66,7 +66,7 @@ Os casos de teste realizados estão documentados em:
 
 `123456`
 
-## 📚 Objetivo do projeto
+##  Objetivo do projeto
 
 Este projeto faz parte do meu portfólio de estudos na área de Tecnologia da Informação, com foco em testes de software e qualidade.
 

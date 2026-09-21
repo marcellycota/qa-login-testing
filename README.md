@@ -1,4 +1,4 @@
-apar# 🧪 Projeto QA — Tela de Login
+# 🧪 Projeto QA — Tela de Login
 
 ## 📌 Sobre o projeto
 
